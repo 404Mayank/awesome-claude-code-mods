@@ -84,6 +84,7 @@ varunmoka7/reddit-watch
 verdantran/code-city
 vicmpen/mokkan
 vihrea1337/headroom
+vinkdc/roclaude
 vynnlee/mods
 xuanji86/claude-agentpane
 xuanji86/claude-mdview
