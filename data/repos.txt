@@ -986,7 +986,6 @@ mikhin/claude-shot-preview
 mikljohansson/claude-code-status-line
 mindthink/zen-breath
 minipai/claudecafe
-minjun0219/rocky
 minsubb13/claude-hud-mod
 Miracle0x0/CCometixLine
 mishgoldenberg/claude-mods
@@ -1253,7 +1252,6 @@ ricardosuman/maestro
 richard-parayno/ccsidebar
 richardcsuwandi/claude-mods
 richkuo/claude-code-model-effort-shortcuts
-riethmayer/dotfiles
 rightlabs/claude-open-points
 ririversoza/agent-office
 rjohnt/linear-claude-mod
@@ -1420,7 +1418,6 @@ Spardutti/claude-mods
 spiiritual/claude-code-stuff
 spinlockdevelopment/lean-and-mean
 sreshtalluri/claude-mods
-SSFSKIM/designer
 sshamilton/claude-mods
 StanislavKozachenko/claude-mods
 stanvx/flow-stack
@@ -1575,7 +1572,6 @@ varunmoka7/side-chat
 Vatroslav/cc-mod-ferro
 Vatroslav/cc-mod-suggestion-sentence-case
 Vatroslav/mod-ferro
-Vatsa10/Meta-Harness
 vavald/screen-context
 VdustR/vp-cc-mods
 VedantAndhale/claude-pro-kit
