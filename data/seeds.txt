@@ -76,6 +76,7 @@ Ashley-Pettit/villager-hp
 Ashley-Pettit/lgtm-flash
 hellosverre/smart-compact
 vihrea1337/headroom
+paragpandyareal/swear-slap
 VaitaR/claude-code-limits
 Arjun0014/project-sentinel
 i-harsha-reddy/naruto-mod
